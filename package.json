@@ -38,7 +38,7 @@
     "eslint-plugin-format": "^0.1.2",
     "lint-staged": "^15.2.10",
     "lodash-es": "^4.17.21",
-    "prettier-plugin-astro": "^0.13.0",
+    "prettier-plugin-astro": "^0.14.1",
     "simple-git-hooks": "^2.11.1"
   },
   "simple-git-hooks": {
