@@ -18,7 +18,7 @@
     "@astrojs/vue": "^4.5.0",
     "@unocss/reset": "^0.62.3",
     "astro": "^4.15.6",
-    "fast-xml-parser": "^4.4.1",
+    "fast-xml-parser": "^4.5.0",
     "nprogress": "^0.2.0",
     "remark-toc": "^9.0.0",
     "tailwindcss": "^3.4.6",
