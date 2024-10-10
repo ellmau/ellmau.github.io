@@ -30,6 +30,7 @@
           # add things you want in your shell here
           buildInputs = with pkgs; [
             nodejs_22
+            bibtex2html
           ];
         };
       }
