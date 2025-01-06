@@ -31,6 +31,7 @@
           buildInputs = with pkgs; [
             nodejs_22
             bibtex2html
+            git
           ];
         };
       }
