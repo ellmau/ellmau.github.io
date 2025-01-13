@@ -35,7 +35,7 @@
     "bumpp": "^9.6.1",
     "eslint": "^9.8.0",
     "eslint-plugin-astro": "^1.2.3",
-    "eslint-plugin-format": "^0.1.2",
+    "eslint-plugin-format": "^1.0.1",
     "lint-staged": "^15.2.10",
     "lodash-es": "^4.17.21",
     "prettier-plugin-astro": "^0.14.0",
