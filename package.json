@@ -16,7 +16,7 @@
     "@astrojs/rss": "^4.0.7",
     "@astrojs/sitemap": "^3.1.6",
     "@astrojs/vue": "^5.0.4",
-    "@unocss/reset": "^0.65.3",
+    "@unocss/reset": "^65.4.2",
     "astro": "^5.1.2",
     "fast-xml-parser": "^4.5.0",
     "nprogress": "^0.2.0",
